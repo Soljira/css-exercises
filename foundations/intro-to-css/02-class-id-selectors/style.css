@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #ffa7a7;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.even {
+    font-family: serif;
+}
+
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+#num4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #80ff80;
+}
